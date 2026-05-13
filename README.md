@@ -154,13 +154,13 @@
 
 <div align="center">
 
-<form action="https://formspree.io/f/mwvyjpgj">
+<form action="https://formspree.io/f/mwvyjpgj" method="POST">
 
 <input type="text" name="nombre" placeholder="Tu nombre" required>
 
 <br><br>
 
-<input type="email" name="email" placeholder="Tu correo" required>
+<input type="email" name="email" placeholder="Tu correo electrónico" required>
 
 <br><br>
 
