@@ -150,6 +150,32 @@
 
 ---
 
+## 📬 Formulario de Contacto
+
+<div align="center">
+
+<form action="https://formspree.io/f/TU_FORM_ID" method="POST">
+
+<input type="text" name="nombre" placeholder="Tu nombre" required>
+
+<br><br>
+
+<input type="email" name="email" placeholder="Tu correo" required>
+
+<br><br>
+
+<textarea name="mensaje" rows="5" cols="40" placeholder="Escribe tu mensaje..." required></textarea>
+
+<br><br>
+
+<button type="submit">Enviar Mensaje 🚀</button>
+
+</form>
+
+</div>
+
+---
+
 ## 🌟 Gracias por visitar mi perfil
 
 <div align="center">
