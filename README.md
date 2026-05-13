@@ -154,7 +154,7 @@
 
 <div align="center">
 
-<form action="https://formspree.io/f/TU_FORM_ID" method="POST">
+<form action="https://formspree.io/f/mwvyjpgj">
 
 <input type="text" name="nombre" placeholder="Tu nombre" required>
 
