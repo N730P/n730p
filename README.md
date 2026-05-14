@@ -38,10 +38,20 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 </p>
 
 ---
-<a href="formulario.html">
-  <button>Ir al formulario 🚀</button>
-<a href="http://127.0.0.1:5500/index.html" target="_blank">
-  <button>Ir a mi página principal 🌐</button>
+<a href=""http://127.0.0.1:5500/index.html" target="_blank">
+  <button style="
+    background-color:#2563eb;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:10px;
+    font-size:16px;
+    cursor:pointer;
+  ">
+    🌐 Ir a mi página principal
+  </button>
+</a>
+
 </a>
 </a>
 ## 🚀 Proyectos
