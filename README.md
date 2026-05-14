@@ -38,7 +38,9 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 </p>
 
 ---
-
+<a href="formulario.html">
+  <button>Ir al formulario 🚀</button>
+</a>
 ## 🚀 Proyectos
 
 - 🌐 Portafolio personal (este proyecto)
