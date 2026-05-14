@@ -71,7 +71,7 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 ---
 
 
-<a href=" https://n730p.github.io/n730p/" target="_blank">
+<a href=https://n730p.github.io/n730p/ target="_blank">
   <button>Ir a mi página principal 🌐</button>
 </a>
 
