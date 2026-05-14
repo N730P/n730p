@@ -71,7 +71,7 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 ---
 
 
-<a href="http://127.0.0.1:5500/index.html" target="_blank">
+<a href=" https://n730p.github.io/n730p/" target="_blank">
   <button>Ir a mi página principal 🌐</button>
 </a>
 
