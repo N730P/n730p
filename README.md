@@ -66,7 +66,19 @@
 <br><br>
 
 <textarea name="mensaje" rows="6" cols="45" placeholder="💬 Escribe tu mensaje..." required></textarea>
+<form action="https://formspree.io/f/mwvyjpgj" method="POST">
 
+<input type="text" name="nombre" placeholder="👤 Tu nombre" required><br><br>
+
+<input type="email" name="email" placeholder="📧 Tu correo" required><br><br>
+
+<textarea name="mensaje" rows="6" cols="45" placeholder="💬 Escribe tu mensaje..." required></textarea><br><br>
+
+<button type="submit">
+🚀 Enviar Mensaje
+</button>
+
+</form>
 <br><br>
 
 <button type="submit">🚀 Enviar Mensaje</button>
