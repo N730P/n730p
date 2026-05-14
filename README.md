@@ -1,36 +1,100 @@
-# 👋 Hola, soy Nain Josael Cabrera Argueta ## 🚀 Desarrollador Web y Estudiante de Software 💻 Apasionado por el desarrollo web y las bases de datos. --- ## 🛠️ Stack Tecnológico
-### 🎨 Frontend ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
---- ## 📱 Redes - WhatsApp: 7778-7668 - TikTok: @naincabrera --- ## 📊 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=N730P&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N730P&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117)
---- ## 📬 Formulario de Contacto
-👤 Tu nombre
+# 👋 Hola, soy Nain Josael Cabrera Argueta
 
+<p align="center">
+🚀 Desarrollador Web en formación | 💻 Frontend | 🎓 Estudiante de Software
+</p>
 
-📧 Tu correo electrónico
+---
 
+## 🌟 Sobre mí
 
-📝 Asunto
+Soy un estudiante de desarrollo de software apasionado por crear páginas web modernas, funcionales y visualmente atractivas.  
+Me enfoco en **Frontend, bases de datos y desarrollo web**.
 
+---
 
-💬 Escribe tu mensaje...
- 
-👤 Tu nombre
+## 🧠 Tecnologías
 
+<p align="center">
 
-📧 Tu correo
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+</p>
 
-💬 Escribe tu mensaje...
+---
 
+## 📊 GitHub Stats
 
-🚀 Enviar Mensaje
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=N730P&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 
-🚀 Enviar Mensaje
---- ## 💡 Sobre Mí
-```text ╔════════════════════════════════════════════════════════╗ ║ ║ ║ ⭐ Desarrollador en formación ║ ║ 🎓 Estudiante de Software ║ ║ 💻 Especialista en Frontend ║ ║ 🚀 Apasionado por la tecnología ║ ║ 📚 Aprendiendo nuevas tecnologías ║ ║ ║ ╚════════════════════════════════════════════════════════╝ ```
---- ## 🌐 Conecta Conmigo
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50377787668) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N730P) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nainargueta)
---- ## 🌟 Gracias por visitar mi perfil
-```text ╔══════════════════════════════════════════════════════╗ ║ ║ ║ 💝 Hecho con ❤️ por Nain Josael Cabrera Argueta ║ ║ 📍 El Salvador 🇸🇻 ║ ║ ║ ║ ⭐ Sígueme para más contenido de desarrollo ║ ║ ║ ╚══════════════════════════════════════════════════════╝ ``` ![Visitors](https://visitor-badge.laob
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N730P&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+
+</p>
+
+---
+
+## 🚀 Proyectos
+
+- 🌐 Portafolio personal (este proyecto)
+- 💻 Formularios web con HTML + CSS
+- 🗄️ Bases de datos en PostgreSQL
+- 📱 Interfaces modernas
+
+---
+
+## 📬 Contacto Profesional
+
+📱 WhatsApp: https://wa.me/50377787668  
+🎵 TikTok: @naincabrera  
+💻 GitHub: https://github.com/N730P  
+
+---
+
+## 📂 Formulario de contacto
+
+👉 Enviar mensaje aquí:  
+➡️ **[Abrir formulario](formulario.html)**
+
+---
+
+## 🧩 Habilidades
+
+- ✔ Diseño web responsivo  
+- ✔ HTML5 semántico  
+- ✔ CSS moderno  
+- ✔ JavaScript básico  
+- ✔ Git & GitHub  
+- ✔ Bases de datos
+
+---
+
+## 💼 Objetivo
+
+Convertirme en **Desarrollador Full Stack** y trabajar en proyectos profesionales reales.
+
+---
+
+## 🌟 Frase
+
+> "El código no es solo escribir, es crear soluciones que ayudan a personas."
+
+---
+
+## 📍 Ubicación
+
+📌 El Salvador 🇸🇻
+
+---
+
+## 💝 Footer
+
+<p align="center">
+Hecho con ❤️ por Nain Josael Cabrera Argueta  
+</p>
 
