@@ -62,6 +62,9 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 
 👉 Enviar mensaje aquí:  
 ➡️ **[Abrir formulario](formulario.html)**
+<a href="http://127.0.0.1:5500/index.html" target="_blank">
+  <button>Ir a mi página principal 🌐</button>
+</a>
 
 ---
 
