@@ -38,7 +38,7 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 </p>
 
 ---
-<a href=""http://127.0.0.1:5500/index.html" target="_blank">
+<a href="http://127.0.0.1:5500/index.html" target="_blank">
   <button style="
     background-color:#2563eb;
     color:white;
@@ -51,7 +51,6 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
     🌐 Ir a mi página principal
   </button>
 </a>
-
 </a>
 </a>
 ## 🚀 Proyectos
