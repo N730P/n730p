@@ -1,100 +1,36 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Portafolio - Nain Cabrera</title>
-  <link rel="stylesheet" href="style.css">
-</head>
+# 👋 Hola, soy Nain Josael Cabrera Argueta ## 🚀 Desarrollador Web y Estudiante de Software 💻 Apasionado por el desarrollo web y las bases de datos. --- ## 🛠️ Stack Tecnológico
+### 🎨 Frontend ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3) ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+--- ## 📱 Redes - WhatsApp: 7778-7668 - TikTok: @naincabrera --- ## 📊 Estadísticas de GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=N730P&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N730P&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117)
+--- ## 📬 Formulario de Contacto
+👤 Tu nombre
 
-<body>
 
-  <!-- 👋 PRESENTACIÓN -->
-  <header>
-    <h1>👋 Hola, soy Nain Josael Cabrera Argueta</h1>
-    <h2>🚀 Desarrollador Web y Estudiante de Software</h2>
-    <p>💻 Apasionado por el desarrollo web y las bases de datos.</p>
-  </header>
+📧 Tu correo electrónico
 
-  <hr>
 
-  <!-- 🛠️ STACK -->
-  <section>
-    <h2>🛠️ Stack Tecnológico</h2>
-    <p>Frontend y herramientas que uso:</p>
+📝 Asunto
 
-    <p>
-      HTML | CSS | JavaScript | GitHub | PostgreSQL
-    </p>
-  </section>
 
-  <hr>
+💬 Escribe tu mensaje...
+ 
+👤 Tu nombre
 
-  <!-- 📱 REDES -->
-  <section>
-    <h2>📱 Redes</h2>
-    <p>WhatsApp: 7778-7668</p>
-    <p>TikTok: @naincabrera</p>
-  </section>
 
-  <hr>
+📧 Tu correo
 
-  <!-- 📊 GITHUB STATS -->
-  <section>
-    <h2>📊 Estadísticas de GitHub</h2>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=N730P&show_icons=true&theme=tokyonight" width="500">
+💬 Escribe tu mensaje...
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N730P&layout=compact&theme=tokyonight" width="400">
-  </section>
 
-  <hr>
+🚀 Enviar Mensaje
 
-  <!-- 📬 BOTÓN AL FORMULARIO -->
-  <section>
-    <h2>📬 Contacto</h2>
 
-    <p>Haz clic para ir al formulario de contacto:</p>
+🚀 Enviar Mensaje
+--- ## 💡 Sobre Mí
+```text ╔════════════════════════════════════════════════════════╗ ║ ║ ║ ⭐ Desarrollador en formación ║ ║ 🎓 Estudiante de Software ║ ║ 💻 Especialista en Frontend ║ ║ 🚀 Apasionado por la tecnología ║ ║ 📚 Aprendiendo nuevas tecnologías ║ ║ ║ ╚════════════════════════════════════════════════════════╝ ```
+--- ## 🌐 Conecta Conmigo
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50377787668) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N730P) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nainargueta)
+--- ## 🌟 Gracias por visitar mi perfil
+```text ╔══════════════════════════════════════════════════════╗ ║ ║ ║ 💝 Hecho con ❤️ por Nain Josael Cabrera Argueta ║ ║ 📍 El Salvador 🇸🇻 ║ ║ ║ ║ ⭐ Sígueme para más contenido de desarrollo ║ ║ ║ ╚══════════════════════════════════════════════════════╝ ``` ![Visitors](https://visitor-badge.laob
 
-    <a href="formulario.html">
-      <button class="btn">Ir al Formulario 🚀</button>
-    </a>
-  </section>
-
-  <hr>
-
-  <!-- 💡 SOBRE MÍ -->
-  <section>
-    <h2>💡 Sobre Mí</h2>
-
-    <pre>
-⭐ Desarrollador en formación
-🎓 Estudiante de Software
-💻 Especialista en Frontend
-🚀 Apasionado por la tecnología
-📚 Aprendiendo nuevas tecnologías
-    </pre>
-  </section>
-
-  <hr>
-
-  <!-- 🌐 LINKS -->
-  <section>
-    <h2>🌐 Conecta Conmigo</h2>
-
-    <p>
-      <a href="https://wa.me/50377787668">WhatsApp</a> |
-      <a href="https://github.com/N730P">GitHub</a> |
-      <a href="https://www.tiktok.com/@nainargueta">TikTok</a>
-    </p>
-  </section>
-
-  <hr>
-
-  <!-- 🌟 FOOTER -->
-  <footer>
-    <p>💝 Hecho con ❤️ por Nain Josael Cabrera Argueta</p>
-    <p>📍 El Salvador 🇸🇻</p>
-  </footer>
-
-</body>
-</html>
