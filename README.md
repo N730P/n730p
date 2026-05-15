@@ -38,7 +38,7 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 </p>
 
 ---
-<a href="formulario.html">
+<a href="index.html">
   <button style="
     background-color:#2563eb;
     color:white;
