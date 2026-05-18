@@ -1,15 +1,27 @@
-# 👋 Hola, soy Nain Josael Cabrera Argueta
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N730P/n730p/main/foto.jpg" width="220" style="border-radius:50%;">
+</p>
+
+<h1 align="center">👋 Hola, soy Nain Josael Cabrera Argueta</h1>
 
 <p align="center">
-🚀 Desarrollador Web en formación | 💻 Frontend | 🎓 Estudiante de Software
+🚀 Desarrollador Web en formación | 💻 Frontend Developer | 🎓 Estudiante de Segundo Año de Bachillerato Técnico en Desarrollo de Software
 </p>
 
 ---
 
 ## 🌟 Sobre mí
 
-Soy un estudiante de desarrollo de software apasionado por crear páginas web modernas, funcionales y visualmente atractivas.  
-Me enfoco en **Frontend, bases de datos y desarrollo web**.
+Soy un estudiante apasionado por el desarrollo de software y la creación de páginas web modernas, funcionales y visualmente atractivas.
+
+Actualmente curso el **Segundo Año de Bachillerato Técnico en Desarrollo de Software**, donde sigo fortaleciendo mis conocimientos en programación, diseño web y bases de datos.
+
+Me enfoco principalmente en:
+
+- 💻 Desarrollo Frontend
+- 🗄️ Bases de Datos
+- 🌐 Diseño Web Moderno
+- 🚀 Proyectos Web Responsivos
 
 ---
 
@@ -17,11 +29,15 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 
 <p align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 </p>
 
@@ -38,65 +54,50 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
 </p>
 
 ---
-<a href="index.html">
-  <button style="
-    background-color:#2563eb;
-    color:white;
-    border:none;
-    padding:12px 25px;
-    border-radius:10px;
-    font-size:16px;
-    cursor:pointer;
-  ">
-  <h2 align="center">🌐 Mi Formulario</h2>
+
+## 🌐 Mi Formulario
 
 <p align="center">
   <a href="https://n730p.github.io/n730p/" target="_blank">
     <img src="https://img.shields.io/badge/Abrir%20Formulario-blue?style=for-the-badge">
   </a>
-</p>  🌐 Ir a mi página principal
-  </button>
-</a>
-</a>
-</a>
+</p>
+
+---
+
 ## 🚀 Proyectos
 
-- 🌐 Portafolio personal (este proyecto)
+- 🌐 Portafolio personal
 - 💻 Formularios web con HTML + CSS
 - 🗄️ Bases de datos en PostgreSQL
 - 📱 Interfaces modernas
-
----
-
-## 📬 Contacto Profesional
-
-📱 WhatsApp: https://wa.me/50377787668  
-🎵 TikTok: @naincabrera  
-💻 GitHub: https://github.com/N730P  
-
----
-
-
-<a href=https://n730p.github.io/n730p/ target="_blank">
-  <button>Ir a mi página principal 🌐</button>
-</a>
+- ⚡ Proyectos Frontend
 
 ---
 
 ## 🧩 Habilidades
 
-- ✔ Diseño web responsivo  
-- ✔ HTML5 semántico  
-- ✔ CSS moderno  
-- ✔ JavaScript básico  
-- ✔ Git & GitHub  
-- ✔ Bases de datos
+- ✔ HTML5 semántico
+- ✔ CSS moderno
+- ✔ JavaScript básico
+- ✔ Diseño responsivo
+- ✔ Git & GitHub
+- ✔ PostgreSQL
+- ✔ Interfaces modernas
+
+---
+
+## 📬 Contacto Profesional
+
+📱 WhatsApp: 7778-7668  
+🎵 TikTok: @naincabrera  
+💻 GitHub: https://github.com/N730P
 
 ---
 
 ## 💼 Objetivo
 
-Convertirme en **Desarrollador Full Stack** y trabajar en proyectos profesionales reales.
+Convertirme en un **Desarrollador Full Stack profesional** y participar en proyectos tecnológicos innovadores.
 
 ---
 
@@ -112,9 +113,6 @@ Convertirme en **Desarrollador Full Stack** y trabajar en proyectos profesionale
 
 ---
 
-## 💝 Footer
-
 <p align="center">
-Hecho con ❤️ por Nain Josael Cabrera Argueta  
+✨ Hecho con ❤️ por Nain Josael Cabrera Argueta ✨
 </p>
-
