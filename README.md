@@ -46,10 +46,35 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,postgresql,git" />
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
 
 </p>
-
 ---
 
 # 📊 Estadísticas de GitHub
