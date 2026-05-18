@@ -48,7 +48,13 @@ Me enfoco en **Frontend, bases de datos y desarrollo web**.
     font-size:16px;
     cursor:pointer;
   ">
-    🌐 Ir a mi página principal
+  <h2 align="center">🌐 Mi Formulario</h2>
+
+<p align="center">
+  <a href="https://n730p.github.io/n730p/" target="_blank">
+    <img src="https://img.shields.io/badge/Abrir%20Formulario-blue?style=for-the-badge">
+  </a>
+</p>  🌐 Ir a mi página principal
   </button>
 </a>
 </a>
