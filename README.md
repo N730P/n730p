@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">👋 Hola, soy Nain Josael Cabrera Argueta</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N730P/n730p/main/foto.jpg" width="220" style="border-radius:50%;">
+</p>
 
 <p align="center">
 🚀 Desarrollador Web en formación | 💻 Frontend Developer | 🎓 Estudiante de Segundo Año de Bachillerato Técnico en Desarrollo de Software
