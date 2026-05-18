@@ -1,118 +1,129 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N730P/n730p/main/foto.jpg" width="220" style="border-radius:50%;">
+  <img src="https://raw.githubusercontent.com/N730P/n730p/main/foto.jpg" width="220" style="border-radius:50%; border:5px solid #2563eb;">
 </p>
 
-<h1 align="center">👋 Hola, soy Nain Josael Cabrera Argueta</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/N730P/n730p/main/foto.jpg" width="220" style="border-radius:50%;">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=💻+Nain+Josael+Cabrera+Argueta;🚀+Frontend+Developer;🎓+Software+Development+Student" />
+</h1>
+
+<h3 align="center">
+🚀 Frontend Developer in Training | 🎓 Software Development Student
+</h3>
 
 <p align="center">
-🚀 Desarrollador Web en formación | 💻 Frontend Developer | 🎓 Estudiante de Segundo Año de Bachillerato Técnico en Desarrollo de Software
+<a href="https://github.com/N730P">
+<img src="https://img.shields.io/badge/GitHub-N730P-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://n730p.github.io/n730p/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Formulario%20Web-2563eb?style=for-the-badge">
+</a>
+
+<a href="https://wa.me/50377787668">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 </p>
 
 ---
 
-## 🌟 Sobre mí
+# 👨‍💻 Sobre mí
 
-Soy un estudiante apasionado por el desarrollo de software y la creación de páginas web modernas, funcionales y visualmente atractivas.
+🎓 Soy estudiante de **Segundo Año de Bachillerato Técnico en Desarrollo de Software**.
 
-Actualmente curso el **Segundo Año de Bachillerato Técnico en Desarrollo de Software**, donde sigo fortaleciendo mis conocimientos en programación, diseño web y bases de datos.
+💡 Me apasiona crear aplicaciones y páginas web modernas, funcionales y visualmente atractivas.
 
-Me enfoco principalmente en:
+🚀 Actualmente sigo desarrollando habilidades en:
 
-- 💻 Desarrollo Frontend
-- 🗄️ Bases de Datos
-- 🌐 Diseño Web Moderno
-- 🚀 Proyectos Web Responsivos
-
----
-
-## 🧠 Tecnologías
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-
-</p>
+- 🌐 Desarrollo Frontend
+- 🎨 Diseño Web Moderno
+- 🗄️ Bases de Datos PostgreSQL
+- ⚡ Interfaces Responsivas
+- 💻 Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tecnologías y Herramientas
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=N730P&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N730P&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,postgresql,git" />
 
 </p>
 
 ---
 
-## 🌐 Mi Formulario
+# 📊 Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://n730p.github.io/n730p/" target="_blank">
-    <img src="https://img.shields.io/badge/Abrir%20Formulario-blue?style=for-the-badge">
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N730P&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N730P&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🚀 Proyectos
+# 🚀 Proyectos Destacados
 
-- 🌐 Portafolio personal
-- 💻 Formularios web con HTML + CSS
-- 🗄️ Bases de datos en PostgreSQL
-- 📱 Interfaces modernas
-- ⚡ Proyectos Frontend
-
----
-
-## 🧩 Habilidades
-
-- ✔ HTML5 semántico
-- ✔ CSS moderno
-- ✔ JavaScript básico
-- ✔ Diseño responsivo
-- ✔ Git & GitHub
-- ✔ PostgreSQL
-- ✔ Interfaces modernas
+✨ Portafolio Personal  
+✨ Formularios Web con HTML y CSS  
+✨ Sistemas conectados con PostgreSQL  
+✨ Interfaces Modernas Responsivas  
 
 ---
 
-## 📬 Contacto Profesional
+# 🌐 Mi Sitio Web
 
-📱 WhatsApp: 7778-7668  
-🎵 TikTok: @naincabrera  
-💻 GitHub: https://github.com/N730P
-
----
-
-## 💼 Objetivo
-
-Convertirme en un **Desarrollador Full Stack profesional** y participar en proyectos tecnológicos innovadores.
+<p align="center">
+<a href="https://n730p.github.io/n730p/" target="_blank">
+<img src="https://img.shields.io/badge/🌍%20Abrir%20Mi%20Formulario-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+</p>
 
 ---
 
-## 🌟 Frase
+# 🧠 Habilidades
 
-> "El código no es solo escribir, es crear soluciones que ayudan a personas."
+✔ HTML5 Semántico  
+✔ CSS3 Moderno  
+✔ JavaScript Básico  
+✔ PostgreSQL  
+✔ Git y GitHub  
+✔ Diseño Responsivo  
+✔ Interfaces Modernas  
 
 ---
 
-## 📍 Ubicación
+# 📬 Contacto
 
-📌 El Salvador 🇸🇻
+<p align="center">
+
+<a href="https://wa.me/50377787668">
+<img src="https://img.shields.io/badge/WhatsApp-Enviar%20Mensaje-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://github.com/N730P">
+<img src="https://img.shields.io/badge/GitHub-Ver%20Perfil-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 🎯 Objetivo
+
+Convertirme en un **Desarrollador Full Stack profesional**, creando proyectos innovadores y soluciones tecnológicas reales.
+
+---
+
+# ✨ Frase
+
+<p align="center">
+  
+> “El código transforma ideas en soluciones.”
+
+</p>
 
 ---
 
