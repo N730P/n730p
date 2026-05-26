@@ -77,17 +77,8 @@
 </p>
 ---
 
-# 📊 Estadísticas de GitHub
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N730P&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N730P&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🚀 Proyectos Destacados
 
@@ -98,12 +89,16 @@
 
 ---
 
-# 🌐 Mi Sitio Web
+# 🌐 Mi Formulario
 
 <p align="center">
+
 <a href="https://n730p.github.io/n730p/" target="_blank">
-<img src="https://img.shields.io/badge/🌍%20Abrir%20Mi%20Formulario-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=🌍+Ir+a+Responder+Este+Formulario;🚀+Haz+Click+Aquí;✨+Formulario+Web+Interactivo" />
+
 </a>
+
 </p>
 
 ---
