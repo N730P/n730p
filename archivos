@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archivos PDF Subidos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        #lista-pdfs {
+            list-style: none;
+            padding: 0;
+        }
+
+        #lista-pdfs li {
+            background: white;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        #lista-pdfs a {
+            text-decoration: none;
+            color: #0066cc;
+            font-weight: bold;
+        }
+
+        #lista-pdfs a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>📚 Archivos PDF Disponibles</h1>
+
+    <ul id="lista-pdfs">
+        <li>Cargando archivos...</li>
+    </ul>
+
+    <script>
+        const usuario = "N730P";
+        const repositorio = "n730p";
+        const carpeta = "pdfs";
+
+        const apiUrl = `https://api.github.com/repos/${usuario}/${repositorio}/contents/${carpeta}`;
+
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => {
+                const lista = document.getElementById("lista-pdfs");
+                lista.innerHTML = "";
+
+                const pdfs = data.filter(archivo =>
+                    archivo.name.toLowerCase().endsWith(".pdf")
+                );
+
+                if (pdfs.length === 0) {
+                    lista.innerHTML = "<li>No hay archivos PDF disponibles.</li>";
+                    return;
+                }
+
+                pdfs.forEach(pdf => {
+                    const li = document.createElement("li");
+
+                    li.innerHTML = `
+                        <a href="${pdf.download_url}" target="_blank">
+                            📄 ${pdf.name}
+                        </a>
+                    `;
+
+                    lista.appendChild(li);
+                });
+            })
+            .catch(error => {
+                document.getElementById("lista-pdfs").innerHTML =
+                    "<li>Error al cargar los archivos PDF.</li>";
+                console.error(error);
+            });
+    </script>
+
+</body>
+</html>
